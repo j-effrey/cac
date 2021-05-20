@@ -8,7 +8,7 @@
       "apiPullConfig": {
         "requestType": "GET",
         "url": "https://${{km/connector.zendesk.subdomain}}.zendesk.com/api/v2/help_center/en-us/articles.json",
-        "url2": "https://${{jeffrey/wong.variable}}.zendesk.com/api/v2/help_center/en-us/articles.json"
+        "url2": "https://${{jeffrey/wong.variable}}.zendesk.com/api/v2/help_center/en-us/articles.json",
         "paginationControl": {
           "cursor": {
             "cursor": "next_page",
